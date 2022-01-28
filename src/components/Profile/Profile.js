@@ -1,6 +1,6 @@
 import React from "react";
 import profilePic from "../../images/profile.png";
-import mail from "../../images/mail.png";
+// import mail from "../../images/mail.png";
 
 const Profile = () => {
   const style = {
@@ -20,10 +20,10 @@ const Profile = () => {
           </div>
           <div>
             <button>
-              <i class="fa fa-envelope" style={style}></i> Email
+              <i className="fa fa-envelope" style={style}></i> Email
             </button>
             <button>
-              <i class="fa fa-linkedin" style={style}></i> LinkedIn
+              <i className="fa fa-linkedin" style={style}></i> LinkedIn
             </button>
           </div>
         </div>
