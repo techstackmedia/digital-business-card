@@ -8,10 +8,10 @@ const Footer = () => {
   return (
     <footer>
       <div>
-        <img src={twitterIcon} alt="twitter icon" />
-        <img src={facebookIcon} alt="facebook icon" />
-        <img src={instagramIcon} alt="instagram icon" />
-        <img src={githubIcon} alt="github icon" />
+        <a href="https://twitter.com/techstackmedia"><img src={twitterIcon} alt="twitter icon" /></a>
+        <a href="https://facebook.com/techstackmedia"><img src={facebookIcon} alt="facebook icon" /></a>
+        <a href="https://instagram.com/techstackmedia"><img src={instagramIcon} alt="instagram icon" /></a>
+        <a href="https://github.com/techstackmedia"><img src={githubIcon} alt="github icon" /></a>
       </div>
     </footer>
   );
