@@ -11,7 +11,7 @@ const App = () => {
       <Profile />
       <About />
       <Interests />
-      <Footer className="Footer" />
+      <Footer className="App-Footer" />
     </div>
   );
 };

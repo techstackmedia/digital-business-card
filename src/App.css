@@ -1,12 +1,38 @@
 .App {
   width: 35%;
-  /* position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%); */
   background-color: #1a1b21;
   color: #fff;
   border: 1px solid #23252c;
   border-radius: 14px;
   margin: auto;
+}
+
+@media (max-width: 1123px) {
+  .App {
+    width: 40%;
+  }
+}
+
+@media (max-width: 961px) {
+  .App {
+    width: 50%;
+  }
+}
+
+@media (max-width: 783px) {
+  .App {
+    width: 70%;
+  }
+}
+
+@media (max-width: 550px) {
+  .App {
+    width: 90%;
+  }
+}
+
+@media (max-width: 432px) {
+  .App {
+    width: 95%;
+  }
 }

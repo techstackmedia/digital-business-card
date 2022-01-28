@@ -1,7 +1,11 @@
 import React from "react";
 import profilePic from "../../images/profile.png";
+import mail from "../../images/mail.png";
 
 const Profile = () => {
+  const style = {
+    width: "20px",
+  };
   return (
     <header>
       <nav>
@@ -15,8 +19,12 @@ const Profile = () => {
             <small>laurasmith.website</small>
           </div>
           <div>
-            <button>Email</button>
-            <button>LinkedIn</button>
+            <button>
+              <i class="fa fa-envelope" style={style}></i> Email
+            </button>
+            <button>
+              <i class="fa fa-linkedin" style={style}></i> LinkedIn
+            </button>
           </div>
         </div>
       </nav>
