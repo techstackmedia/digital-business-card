@@ -1,4 +1,3 @@
-import React from "react";
 import twitterIcon from "../../images/twitter.png";
 import facebookIcon from "../../images/facebook.png";
 import instagramIcon from "../../images/instagram.png";

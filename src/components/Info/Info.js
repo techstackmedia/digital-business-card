@@ -1,6 +1,4 @@
-import React from "react";
 import profilePic from "../../images/profile.jpeg";
-// import mail from "../../images/mail.png";
 
 const Info = () => {
   const icon = {
@@ -59,7 +57,5 @@ const Info = () => {
     </header>
   );
 };
-// mailto:info@techstackmedia.com
-// https://linkedin.com/in/techstackmedia
 
 export default Info;
