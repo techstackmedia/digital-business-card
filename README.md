@@ -11,7 +11,7 @@
 - Modify the [Start up](https://scrimba.com/learn/learnreact/section-1-solo-project-coce646e88eea46f91af43ca4) project.
 - Hint: use the [Figma](<https://www.figma.com/file/GOGTdQpMV7W3OBcBBI57qI/Digital-Business-Card-(Copy)?node-id=0%3A1>) file for the most accurate peek at the design
   (colors, sizes, fonts, etc.).
-- Check out my [Finished](digital-business-card-app.netlify.app) project if you want.
+- Check out my [Finished](https://digital-business-card-app.netlify.app) project if you want.
 
 ## `npm run build`
 
